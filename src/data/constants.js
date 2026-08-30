@@ -1,5 +1,6 @@
 export const defaultBlue = "#175e7a";
 export const defaultNoteTheme = "#fcf7ac";
+export const defaultRelationshipColor = "#808080";
 export const noteWidth = 180;
 export const noteRadius = 3;
 export const noteFold = 24;
@@ -24,6 +25,7 @@ export const tableFieldHeight = 36;
 export const tableColorStripHeight = 7;
 export const pngExportPixelRatio = 4;
 export const minAreaSize = 120;
+export const keyboardPanStep = 60;
 
 export const Cardinality = {
   ONE_TO_ONE: "one_to_one",
